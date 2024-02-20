@@ -528,12 +528,13 @@ body {
 @media (max-width: 1000px) {
   .sub-heading {
     font-size: 30px;
+    line-height: 142%;
+    margin-bottom: 10px;
   }
 }
 @media (max-width: 500px) {
   .sub-heading {
     font-size: 20px;
-    margin-bottom: 10px;
   }
 }
 
@@ -558,8 +559,8 @@ body {
 }
 @media (max-width: 800px) {
   .main-btn {
-    width: 25px;
-    height: 25px;
+    width: 120px;
+    height: 35px;
   }
 }
 @media (max-width: 500px) {
