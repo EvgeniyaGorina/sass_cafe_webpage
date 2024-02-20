@@ -315,8 +315,9 @@
   margin-bottom: 70px;
 
   @media (max-width: 500px) {
-    width: 200px;
-    margin-bottom: 40px;
+    margin: 0px 15% 40px;
+    width: 53%;
+    align-items: center;
   }
 
   &-item {
